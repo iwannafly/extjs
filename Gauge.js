@@ -22,7 +22,7 @@ Ext.onReady(function(){
             store: store,
             insetPadding: 25,
             flex: 1,
-                    legend: true,
+            legend: true,
             axes: [{
                 type: 'gauge',
                 position: 'gauge',
