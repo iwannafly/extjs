@@ -2,7 +2,7 @@ Ext.onReady(function(){
     var store = Ext.create('Ext.data.JsonStore', {
 		fields: ['name', 'value'],
 		data: [
-			{'name': 'answer to life the universe and everything', 'value':42},
+			{'name': 'answer to life, the universe and everything', 'value':42},
 		]
 	});
 
